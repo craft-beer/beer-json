@@ -1,0 +1,42 @@
+[
+  {
+    "code": "",
+    "product": "아사히 슈퍼드라이 Ashahi Super Dry",
+    "country": "일본",
+    "company": "Ashahi Brewerie, Ltd",
+    "importation": "(주)롯데아사히주류",
+    "ingredients": ["정제수(물)", "맥아", "옥수수전분", "이스트", "호프", "옥수수", "쌀"],
+    "alcohol": 5.0,
+    "volume": 350
+  },
+  {
+    "code": "",
+    "product": "아사히 슈퍼드라이 Ashahi Super Dry",
+    "country": "일본",
+    "company": "Ashahi Brewerie, Ltd",
+    "importation": "(주)롯데아사히주류",
+    "ingredients": ["정제수(물)", "맥아", "옥수수전분", "이스트", "호프", "옥수수", "쌀"],
+    "alcohol": 5.0,
+    "volume": 500
+  },
+  {
+    "code": "",
+    "product": "아사히 슈퍼드라이 블랙 Ashahi Super Dry Black",
+    "country": "일본",
+    "company": "Ashahi Brewerie, Ltd",
+    "importation": "(주)롯데아사히주류",
+    "ingredients": ["정제수(물)", "맥아", "옥수수전분", "이스트", "맥아추출물", "홉", "쌀", "옥수수"],
+    "alcohol": 5.0,
+    "volume": 350
+  },
+  {
+    "code": "",
+    "product": "아사히 슈퍼드라이 블랙 Ashahi Super Dry Black",
+    "country": "일본",
+    "company": "Ashahi Brewerie, Ltd",
+    "importation": "(주)롯데아사히주류",
+    "ingredients": ["정제수(물)", "맥아", "옥수수전분", "이스트", "맥아추출물", "홉", "쌀", "옥수수"],
+    "alcohol": 5.0,
+    "volume": 500
+  },
+]

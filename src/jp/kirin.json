@@ -1,0 +1,24 @@
+[
+  {
+    "code": "",
+    "product": "기린 치비방 시보리 Kirin Ichiban",
+    "country": "일본",
+    "company": "KIRIN Brewery Co.Ltd(1888)",
+    "importation": "하이트진로(주)",
+    "ingredients": ["정제수", "맥아", "이스트", "호프"],
+    "alcohol": 5.0,
+    "volume": 350,
+    "style": ["페일라거 Pale Lager"]
+  },
+  {
+    "code": "",
+    "product": "기린 치비방 시보리 Kirin Ichiban",
+    "country": "일본",
+    "company": "KIRIN Brewery Co.Ltd(1888)",
+    "importation": "하이트진로(주)",
+    "ingredients": ["정제수", "맥아", "이스트", "호프"],
+    "alcohol": 5.0,
+    "volume": 500,
+    "style": ["페일라거 Pale Lager"]
+  },
+]

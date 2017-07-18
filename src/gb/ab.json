@@ -1,0 +1,12 @@
+[
+  {
+    "code": "",
+    "product": "보딩턴",
+    "country": "영국",
+    "company": "AB InBev UK Ltd",
+    "importation": "오비맥주(주)",
+    "ingredients": ["정제수", "맥아", "옥수수", "보리", "구운밀", "이스트", "홉", "카라멜 색소", "이산화탄소"],
+    "alcohol": 4.6,
+    "volume": 500
+  }
+]

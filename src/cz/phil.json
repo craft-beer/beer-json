@@ -1,0 +1,32 @@
+[
+  {
+    "code": "",
+    "product": "벨코포포빅키 코젤 다크, Kozel",
+    "country": "체코",
+    "company": "필젠스키 프레즈드로이",
+    "importation": "사브밀러 브랜드 코리아(유)",
+    "ingredients": ["정제수", "맥아", "설탕", "호프"],
+    "alcohol": 3.8,
+    "volume": 500,
+    "style": [""],
+    "rgb": "#",
+    "sales": [{ "price": 2500 }],
+    "reviews": [],
+    "images": []
+  },
+  {
+    "code": "",
+    "product": "필스너 우르캘, Pilsner Urquell",
+    "country": "체코",
+    "company": "필젠스키 프레즈드로이",
+    "importation": "사브밀러 브랜드 코리아(유)",
+    "ingredients": ["정제수", "맥아", "호프", "효모"],
+    "alcohol": 4.4,
+    "volume": 500,
+    "style": [""],
+    "rgb": "#",
+    "sales": [{ "price": 2500 }],
+    "reviews": [],
+    "images": []
+  },
+]

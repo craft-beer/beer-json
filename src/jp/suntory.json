@@ -1,0 +1,24 @@
+[
+  {
+    "code": "",
+    "product": "산토리 프리미엄 몰츠 Suntory Premium Malt's",
+    "country": "일본",
+    "company": "Suntory Beer Limited(1963)",
+    "importation": "오비맥주(주)",
+    "ingredients": ["정제수", "몰트", "효모", "호프"],
+    "alcohol": 5.5,
+    "volume": 350,
+    "style": ["라거 Lager"]
+  },
+  {
+    "code": "",
+    "product": "산토리 프리미엄 몰츠 Suntory Premium Malt's",
+    "country": "일본",
+    "company": "Suntory Beer Limited(1963)",
+    "importation": "오비맥주(주)",
+    "ingredients": ["정제수", "몰트", "효모", "호프"],
+    "alcohol": 5.5,
+    "volume": 500,
+    "style": ["라거 Lager"]
+  }
+]

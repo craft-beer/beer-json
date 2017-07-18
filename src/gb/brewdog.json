@@ -1,0 +1,28 @@
+[
+  {
+    "code": "",
+    "product": "펑크 아이피에이 Punk IPA",
+    "country": "영국(스코틀랜드)",
+    "company": "BrewDog Plc",
+    "importation": "(주)인덜지",
+    "ingredients": ["정제수", "보리맥아", "이스트", "호프"],
+    "alcohol": 5.6,
+    "volume": 330,
+    "sales": [
+      { "price": 4980 }
+    ]
+  },
+  {
+    "code": "",
+    "product": "잭해머 Jack Hammer",
+    "country": "영국(스코틀랜드)",
+    "company": "BrewDog Plc",
+    "importation": "(주)인덜지",
+    "ingredients": ["정제수", "보리맥아", "이스트", "호프"],
+    "alcohol": 7.2,
+    "volume": 330,
+    "sales": [
+      { "price": 6980 }
+    ]
+  }
+]

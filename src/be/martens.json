@@ -1,0 +1,60 @@
+[
+  {
+    "code": "",
+    "product": "하켄버그 필스 라거 (Hackenberg Pils Lager)",
+    "country": "벨기에",
+    "company": "브루워리 마튼즈",
+    "importation": "주식회사 신세계 앨앤비",
+    "ingredients": ["정제수", "보리맥아", "홉스", "효모"],
+    "alcohol": 5.0,
+    "volume": 500
+  },
+  {
+    "code": "",
+    "product": "윌리안브로이 다크 라거",
+    "country": "벨기에",
+    "company": "브루워리 마튼즈",
+    "importation": "주식회사 신세계 앨앤비",
+    "ingredients": [],
+    "alcohol": 5.0,
+    "volume": 500
+  },
+  {
+    "code": "",
+    "product": "윌리안브로이 바이젠 (Willianbrau Weizen)",
+    "country": "벨기에",
+    "company": "브루워리 마튼즈",
+    "ingredients": ["정제수", "보리맥아", "밀맥아", "홉스", "효모"],
+    "alcohol": 5.0,
+    "volume": 500
+  },
+  {
+    "code": "",
+    "product": "윌리안브로이 알트 에일 (Willianbrau Alt Ale)",
+    "country": "벨기에",
+    "company": "브루워리 마튼즈",
+    "ingredients": ["정제수", "보리맥아", "홉스", "호프추출물"],
+    "alcohol": 4.9,
+    "volume": 500
+  },
+  {
+    "code": "",
+    "product": "마튼즈 엑스포트",
+    "country": "벨기에",
+    "company": "브루워리 마튼즈",
+    "importation": "주식회사 신세계엘앤비",
+    "ingredients": ["정제수", "보리맥아", "옥수수", "홉스", "홉추출물"],
+    "alcohol": 5.0,
+    "volume": 1000
+  },
+  {
+    "code": "",
+    "product": "더 킹덤 오브 벨지움 필스너",
+    "country": "벨기에",
+    "company": "브루워리 마튼즈",
+    "importation": "주식회사 신세계엘앤비",
+    "ingredients": ["정제수", "보리맥아", "보리", "홉스", "홉추출물"],
+    "alcohol": 5.0,
+    "volume": 500
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "code": "",
+    "product": "삿포로 프리미엄 생맥주",
+    "country": "일본",
+    "company": "Sapporo Breweries LTD.",
+    "importation": "엠즈베버리지(주)",
+    "ingredients": ["정제수(물)", "맥아", "홉", "쌀", "옥수수", "전분"],
+    "alcohol": 5.0,
+    "volume": 350
+  },
+  {
+    "code": "",
+    "product": "삿포로 프리미엄 생맥주",
+    "country": "일본",
+    "company": "Sapporo Breweries LTD.",
+    "importation": "엠즈베버리지(주)",
+    "ingredients": ["정제수(물)", "맥아", "홉", "쌀", "옥수수", "전분"],
+    "alcohol": 5.0,
+    "volume": 500
+  }
+]
