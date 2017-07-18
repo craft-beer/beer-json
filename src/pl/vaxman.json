@@ -1,0 +1,22 @@
+[
+  {
+    "code": "",
+    "product": "하이디 필스너 비어",
+    "country": "폴란드",
+    "company": "VAXMAN Group SP. Z O.O.",
+    "importation": "(주)지아이코리아",
+    "ingredients": ["정제수", "보리맥아", "옥수수", "홉추출물", "카라멜색소"],
+    "alcohol": 5.0,
+    "volume": 330
+  },
+  {
+    "code": "",
+    "product": "하이디 필스너 비어",
+    "country": "폴란드",
+    "company": "VAXMAN Group SP. Z O.O.",
+    "importation": "(주)지아이코리아",
+    "ingredients": ["정제수", "보리맥아", "옥수수", "홉추출물", "카라멜색소"],
+    "alcohol": 5.0,
+    "volume": 500
+  }
+]

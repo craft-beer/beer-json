@@ -31,29 +31,35 @@ export interface Beer {
 }
 ```
 
-folder
+
+folder 구조
 ```
 /src
   /국가코드
     /제조회사
+  /kr
+    /hite
+    /lotte
   /jp
     /suntory
+    /kirin
 ```
 
 
 | 국가     | 코드 |
 | ------- | --- |
+| 오스트리아 | AT  |
+| 벨기에    | BE  |
+| 캐나다    | CA  |
+| 체코     | CZ  |
+| 독일     | DE  |
+| 덴마크    | DK  |
+| 프랑스    | FR  |
+| 영국     | GB  |
+| 아일랜드  | IE  |
+| 일본     | JP  |
+| 대한민국  | KR  |
 | 네덜란드  | NL  |
 | 뉴질랜드  | NZ  |
-| 대한민국  | KR  |
-| 덴마크    | DK  |
-| 독일     | DE  |
+| 폴란드    | PL  |
 | 미국     | US  |
-| 벨기에    | BE  |
-| 아일랜드  | IE  |
-| 영국     | GB  |
-| 오스트리아 | AT  |
-| 일본     | JP  |
-| 체코     | CZ  |
-| 캐나다    | CA  |
-| 프랑스    | FR  |
