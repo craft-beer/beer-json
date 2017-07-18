@@ -1,0 +1,22 @@
+[
+  {
+    "code": "",
+    "product": "구른바커 알트바이스골드",
+    "country": "독일",
+    "company": "Schlossbrauerie Grunbach",
+    "importation": "(주)무스헤드코리아",
+    "ingredients": ["정제수", "밀맥아", "보리맥아", "호프", "효모"],
+    "alcohol": 5.3,
+    "volume": 500
+  },
+  {
+    "code": "",
+    "product": "구른바커 알트바이스둔켈",
+    "country": "독일",
+    "company": "Schlossbrauerie Grunbach",
+    "importation": "(주)무스헤드코리아",
+    "ingredients": ["정제수", "밀맥아", "보리맥아", "호프", "효모"],
+    "alcohol": 5.3,
+    "volume": 500
+  }
+]
