@@ -1,0 +1,11 @@
+[
+  {
+    "code": "",
+    "product": "임페리얼 IPA",
+    "country": "한국",
+    "company": "세븐브로이맥주(주)",
+    "ingredients": ["맥아", "홉", "효모"],
+    "alcohol": 7.0,
+    "volume": 330
+  }
+]
