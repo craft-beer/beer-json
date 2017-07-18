@@ -15,12 +15,12 @@ export interface Beer {
   alcohol?: number,
   // 용량
   volume?: number,
-  // 카테고리
-  categories?: Array<string>,
+  // 스타일
+  style?: Array<string>,
   // 컬러
   rgb?: string,
   // 가격
-  price?: Array<{ place: string, data: Date, price: number }>
+  sales?: Array<{ place?: string, data?: Date, price: number }>
   // 리뷰
   reviews?: Array<string>,
   // 이미지
