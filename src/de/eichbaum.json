@@ -1,0 +1,37 @@
+[
+  {
+    "code": "",
+    "product": "아포스텔브라우",
+    "country": "독일",
+    "company": "EICHBAUM GMBH & CO, KG",
+    "importation": "인터케이(주)",
+    "ingredients": ["정제수", "보리맥아", "홉추출물", "효모"],
+    "alcohol": 5.0,
+    "volume": 350
+  },
+  {
+    "code": "",
+    "product": "체링거 프리미엄 헤페바이젠",
+    "country": "독일",
+    "company": "Privatbrauerei Eichbaum GMBH&CO.KG",
+    "importation": "(주)프로스트",
+    "ingredients": ["정제수", "보리맥아", "밀맥아", "효모", "홉 추출물"],
+    "alcohol": 5.0,
+    "volume": 500,
+    "style": [""],
+    "rgb": "#",
+    "sales": [{ "price": 0 }],
+    "reviews": [],
+    "images": []
+  },
+  {
+    "code": "",
+    "product": "발렌틴스",
+    "country": "독일",
+    "company": "Eichbaum Brauereien AG",
+    "importation": "인터케이(주)",
+    "ingredients": ["정제수", "밀맥아", "보리맥아", "홉추출물", "효모"],
+    "alcohol": 5.3,
+    "volume": 500
+  }
+]

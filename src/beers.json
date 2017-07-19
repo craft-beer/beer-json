@@ -15,42 +15,6 @@
     },
     {
       "code": "",
-      "product": "아포스텔브라우",
-      "country": "독일",
-      "company": "EICHBAUM GMBH & CO, KG",
-      "importation": "인터케이(주)",
-      "ingredients": ["정제수", "보리맥아", "홉추출물", "효모"],
-      "alcohol": 5.0,
-      "volume": 350
-    },
-    {
-      "code": "",
-      "product": "가펠쾰쉬 Gaffel Kölsch",
-      "country": "독일",
-      "company": "Privatbrauerei Gaffel Becker & Co OHG",
-      "importation": "(주)도아인터내쇼날",
-      "ingredients": ["정제수", "맥아", "이스트", "호프"],
-      "alcohol": 4.8,
-      "volume": 500
-    },
-
-    {
-      "code": "",
-      "product": "체링거 프리미엄 헤페바이젠",
-      "country": "독일",
-      "company": "Privatbrauerei Eichbaum GMBH&CO.KG",
-      "importation": "(주)프로스트",
-      "ingredients": ["정제수", "보리맥아", "밀맥아", "효모", "홉 추출물"],
-      "alcohol": 5.0,
-      "volume": 500,
-      "style": [""],
-      "rgb": "#",
-      "sales": [{ "price": 0 }],
-      "reviews": [],
-      "images": []
-    },
-    {
-      "code": "",
       "product": "듀라커 둔켈",
       "country": "독일",
       "company": "",
@@ -61,12 +25,32 @@
     },
     {
       "code": "",
-      "product": "발렌틴스",
+      "product": "후버 바이세스 헤페-바이젠비어",
       "country": "독일",
-      "company": "Eichbaum Brauereien AG",
-      "importation": "인터케이(주)",
-      "ingredients": ["정제수", "밀맥아", "보리맥아", "홉추출물", "효모"],
+      "company": "Hofbrauhaus Freising GmbH",
+      "importation": "포에스리커(주)",
+      "ingredients": ["정제수", "밀맥아", "보리맥아", "이스트", "홉"],
+      "alcohol": 5.4,
+      "volume": 500
+    },
+    {
+      "code": "",
+      "product": "바이스비어-헬",
+      "country": "독일",
+      "company": "Arcobrau Grafliches",
+      "importation": "(주)무스헤드코리아",
+      "ingredients": ["밀", "맥아", "정제수", "호프", "이스트", "이산화탄소"],
       "alcohol": 5.3,
+      "volume": 500
+    },
+    {
+      "code": "",
+      "product": "투 허 헤페바이젠",
+      "country": "독일",
+      "company": "Brauerei Tucher Brau",
+      "importation": "뢰벤브로이코리아(주)",
+      "ingredients": ["물", "밀맥아", "보리맥아", "이스트", "호프추출물"],
+      "alcohol": 5.2,
       "volume": 500
     }
   ]

@@ -1,11 +1,12 @@
 [
   {
     "code": "",
-    "product": "구스 아일랜드",
+    "product": "구스 아일랜드 혼커스 에일 Goose Island Honkers Ale",
     "country": "미국",
-    "company": "세븐브로이맥주(주)",
-    "ingredients": ["맥아", "홉", "효모"],
-    "alcohol": 7.0,
-    "volume": 330
+    "company": "Goose Island Beer Company",
+    "importation": "오비맥주(주)",
+    "ingredients": ["정제수", "보리맥아", "홉스", "밀함유"],
+    "alcohol": 4.3,
+    "volume": 355
   }
 ]
